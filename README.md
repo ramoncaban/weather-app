@@ -17,6 +17,13 @@ A user-friendly desktop application that provides real-time weather updates for 
 - **OpenWeatherMap API**: To fetch real-time weather data.
 - **Requests Library**: For making HTTP requests.
 
+## 📸 Screenshots
+### Main Interface
+![Main Interface](screenshot-main.png)
+
+### Error Handling
+![Error Handling](screenshot-error.png)
+
 ## 📋 Prerequisites
 Before running the application, ensure you have the following installed:
 - Python 3.7 or higher
