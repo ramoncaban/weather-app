@@ -27,8 +27,12 @@ Before running the application, ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/WeatherApp.git
    cd WeatherApp
+   ```
 2. Obbatin an API key from OpenWeatherMap and replace the placeholder in weather_app.py:
+```bash
    pip install -r requirements.txt
-
-3. Run the application:
+```
+4. Run the application:
+```bash
    python weather_app.py
+```
