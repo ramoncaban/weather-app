@@ -4,6 +4,7 @@ A user-friendly desktop application that provides real-time weather updates for 
 
 ## 🚀 Features
 - Search for current weather by city name.
+- Click the "Get Weather" button.
 - Displays:
   - Temperature in Fahrenheit.
   - Weather description with an emoji.
