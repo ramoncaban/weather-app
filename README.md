@@ -32,7 +32,7 @@ Before running the application, ensure you have the following installed:
 ## 🔧 Installation and Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/WeatherApp.git
+   git clone https://github.com/ramoncaban/WeatherApp.git
    cd WeatherApp
    ```
 2. Obbatin an API key from OpenWeatherMap and replace the placeholder in weather_app.py:
